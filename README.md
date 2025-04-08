@@ -47,6 +47,14 @@ The **Horizon API: Forensics** tool, is designed to streamline forensic investig
 
 ---
 
+## Tool Interface
+
+Below is a screenshot of the Horizon Forensic API Tool in action:
+
+![Horizon Forensic API Tool Screenshot](screenshot.png)
+
+---
+
 ## Usage Instructions
 
 ### Getting Started
